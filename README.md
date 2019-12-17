@@ -1,4 +1,4 @@
-# MJRBot-Issues
+# MJRBot Issues & Suggestions
 
 ## MJRBot
 A Twitch/Mixer IRC/Java Socket Chat bot made in java, designed for server based systems.
